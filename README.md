@@ -1,4 +1,4 @@
-# monkey-lang
+# Monkey Language
 
 Implementation of a interpreted language following **Writing a interpreter in Go** book by **Thorsten Ball**.
 
